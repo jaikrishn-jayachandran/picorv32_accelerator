@@ -1,1 +1,1 @@
-# This Accelerator is still under development
+# This Accelerator is still in development
