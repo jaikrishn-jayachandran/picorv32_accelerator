@@ -1,0 +1,150 @@
+========================================
+       PICORV32 FFT ACCELERATOR
+             STREAM REPORT
+========================================
+
+INPUT SAMPLES
+----------------------------------------
+Input[00] = 0
+Input[01] = 1
+Input[02] = 2
+Input[03] = 3
+Input[04] = 4
+Input[05] = 5
+Input[06] = 6
+Input[07] = 7
+Input[08] = 8
+Input[09] = 9
+Input[10] = 10
+Input[11] = 11
+Input[12] = 12
+Input[13] = 13
+Input[14] = 14
+Input[15] = 15
+Input[16] = 16
+Input[17] = 17
+Input[18] = 18
+Input[19] = 19
+Input[20] = 20
+Input[21] = 21
+Input[22] = 22
+Input[23] = 23
+Input[24] = 24
+Input[25] = 25
+Input[26] = 26
+Input[27] = 27
+Input[28] = 28
+Input[29] = 29
+Input[30] = 30
+Input[31] = 31
+Input[32] = 32
+Input[33] = 33
+Input[34] = 34
+Input[35] = 35
+Input[36] = 36
+Input[37] = 37
+Input[38] = 38
+Input[39] = 39
+Input[40] = 40
+Input[41] = 41
+Input[42] = 42
+Input[43] = 43
+Input[44] = 44
+Input[45] = 45
+Input[46] = 46
+Input[47] = 47
+Input[48] = 48
+Input[49] = 49
+Input[50] = 50
+Input[51] = 51
+Input[52] = 52
+Input[53] = 53
+Input[54] = 54
+Input[55] = 55
+Input[56] = 56
+Input[57] = 57
+Input[58] = 58
+Input[59] = 59
+Input[60] = 60
+Input[61] = 61
+Input[62] = 62
+Input[63] = 63
+
+FFT OUTPUT (COMPLEX)
+----------------------------------------
+FFT[00] = 1953 + j(0)
+FFT[01] = -912 + j(341)
+FFT[02] = -458 + j(165)
+FFT[03] = -119 + j(-128)
+FFT[04] = -231 + j(77)
+FFT[05] = -59 + j(-71)
+FFT[06] = -57 + j(-66)
+FFT[07] = 19 + j(-48)
+FFT[08] = -117 + j(33)
+FFT[09] = -27 + j(-38)
+FFT[10] = -27 + j(-37)
+FFT[11] = 15 + j(-21)
+FFT[12] = -26 + j(-35)
+FFT[13] = 11 + j(-16)
+FFT[14] = 12 + j(-23)
+FFT[15] = 18 + j(4)
+FFT[16] = -60 + j(11)
+FFT[17] = -13 + j(-20)
+FFT[18] = -11 + j(-20)
+FFT[19] = 7 + j(-10)
+FFT[20] = -11 + j(-20)
+FFT[21] = 7 + j(-9)
+FFT[22] = 9 + j(-9)
+FFT[23] = 8 + j(3)
+FFT[24] = -10 + j(-19)
+FFT[25] = 7 + j(-7)
+FFT[26] = 7 + j(-7)
+FFT[27] = 7 + j(3)
+FFT[28] = 8 + j(-10)
+FFT[29] = 7 + j(3)
+FFT[30] = 9 + j(4)
+FFT[31] = 1 + j(7)
+FFT[32] = -31 + j(0)
+FFT[33] = -4 + j(-11)
+FFT[34] = -4 + j(-11)
+FFT[35] = 5 + j(-4)
+FFT[36] = -3 + j(-11)
+FFT[37] = 5 + j(-3)
+FFT[38] = 5 + j(-4)
+FFT[39] = 5 + j(2)
+FFT[40] = -3 + j(-11)
+FFT[41] = 5 + j(-2)
+FFT[42] = 5 + j(-3)
+FFT[43] = 3 + j(3)
+FFT[44] = 6 + j(-3)
+FFT[45] = 3 + j(2)
+FFT[46] = 4 + j(3)
+FFT[47] = 0 + j(4)
+FFT[48] = -2 + j(-11)
+FFT[49] = 5 + j(-2)
+FFT[50] = 5 + j(-2)
+FFT[51] = 3 + j(2)
+FFT[52] = 5 + j(-2)
+FFT[53] = 3 + j(3)
+FFT[54] = 3 + j(3)
+FFT[55] = 0 + j(3)
+FFT[56] = 6 + j(-3)
+FFT[57] = 3 + j(3)
+FFT[58] = 3 + j(3)
+FFT[59] = -1 + j(3)
+FFT[60] = 4 + j(4)
+FFT[61] = -1 + j(3)
+FFT[62] = -1 + j(4)
+FFT[63] = -3 + j(1)
+
+STREAM SUMMARY
+----------------------------------------
+Input transfers  : 64
+Output transfers : 128
+FFT length       : 64
+Expected outputs : 128
+TLAST positions  : [127]
+
+========================================
+              END OF REPORT
+========================================
